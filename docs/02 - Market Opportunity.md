@@ -10,7 +10,7 @@ Millions of people want to become healthier, stronger, or more active, yet maint
 
 Today's market is fragmented across workout libraries, wearable devices, nutrition trackers, running apps, and AI assistants. Users frequently combine several products to accomplish a single goal.
 
-Health AI seeks to unify these experiences through conversational coaching that adapts to each individual over time.
+Health AI seeks to unify these experiences through conversational coaching that adapts to each individual over time and based on their prompts
 
 ---
 
